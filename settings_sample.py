@@ -1,0 +1,4 @@
+VENDOR_ID = 'VENDOR_ID'
+PFX_FILE = '/path/to/you/vendors/PFX_FILE'
+PFX_FILE_PASSWORD = 'PFX_FILE_PASSWORD'
+PAN_SERVER_URL = 'https://59.163.46.2/TIN/PanInquiryBackEnd'
